@@ -1,0 +1,16 @@
+{
+  "name": "diff-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duplicates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "fs-readdir-recursive": "^1.1.0",
+    "jsdiff": "^1.1.1"
+  }
+}
